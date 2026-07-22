@@ -45,4 +45,4 @@ I’m working as a Software Engineer and contributing to frontend and backend fo
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=literal92&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://vercel.app)](https://github.com)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=literal92&layout=compact&theme=dracula)
